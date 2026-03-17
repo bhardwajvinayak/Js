@@ -27,5 +27,40 @@ let booleanIsLoogedIn = Boolean(isLoggedIn);
 
 let someNumber = 3
 let stringNumber = String(someNumber)
- console.log(stringNumber) // "3"
- console.log(typeof stringNumber) // string   
+//  console.log(stringNumber) // "3"
+//  console.log(typeof stringNumber) // string   
+
+
+ //--------------------------Operations------------------
+
+ let value = 4;
+ let negValue = -value;
+    // console.log(negValue) // -4
+
+    // console.log(2 + 2); // 4
+    // console.log(2 - 2); // 0
+    // console.log(2 * 2); // 4
+    // console.log(2 / 2); // 1
+    // console.log(2 % 2); // 0
+    // console.log(2 ** 3); // 8   (2*2*2) or 2^3
+
+    let str1 = "hello"
+    let str2 = " vinayak"
+    let str3 =  str1 + str2
+    
+    // console.log( str3)
+    
+
+
+    // console.log(1 + "2");  //  12
+    // console.log("1" + 2);   // 12
+    // console.log("1" + 2 + 3); // 123
+    // console.log(1 + 2 + "3"); // "(1 +2)" + "3"
+
+
+    console.log(+true) // 1
+    console.log(+false) // 0
+    console.log(+"") // 0
+    console.log(+"vinayak") // NaN
+
+    
