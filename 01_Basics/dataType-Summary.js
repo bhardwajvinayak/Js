@@ -15,18 +15,18 @@ let name = undefined // undefined is a primitive value that represents the absen
 const id = Symbol("123")
 const otherId = Symbol("123")
 
-console.log(id === otherId) // false because symbol is unique
+//console.log(id === otherId) // false because symbol is unique
 
 const bigInt = 1234567890123456789012345678901234567n // bigInt is used to represent large integers that exceed the safe integer limit of JavaScript. The 'n' suffix indicates that the number is a BigInt.
-console.log(bigInt)
+//console.log(bigInt)
 
 // Reference (non-primitive) data type
 
 // array ,object ,function 
 
-const heros = ["shaktiman", "doga", "nagraj"]
+const heros = ["shaktiman", "doga", "nagraj"]   // array
 
-let obj = {
+let obj = {   /// object
     name: "shaktiman",
     power: "super strength" 
 
@@ -35,3 +35,6 @@ let obj = {
 const myFunction = function() {
     console.log("this is a function")
 }
+
+
+ 
