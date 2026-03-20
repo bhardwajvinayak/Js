@@ -56,4 +56,6 @@ const arr2 = myArr.splice(1,4)
 
 // now we print origional arrayy
 console.log("C   ",myArr)
+
+// note that splice() method modifies the original array, while slice() method does not.
     
