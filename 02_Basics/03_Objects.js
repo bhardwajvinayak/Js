@@ -78,11 +78,11 @@ console.log(profile.greetTwo());// hello , ekdantam sharma
    //like this   \/ ----- \/ --------\/ 
 
    // 1. apis also object
-  { "name" : "gagVakeram",
-    "age" : 12,
-    "isLogin" : true 
+//   { "name" : "gagVakeram",
+//     "age" : 12,
+//     "isLogin" : true 
 
-  }
+//   }
 
 // 2.  and apis also array
 
