@@ -68,3 +68,27 @@ profile.greetTwo = function(){
 }
 console.log(profile.greetTwo());// hello , ekdantam sharma
 // this keyword is used to access the property of the object in which the function is defined
+
+
+
+// json formate 
+
+  //it similer than object 
+  // but keys shoud be string
+   //like this   \/ ----- \/ --------\/ 
+
+   // 1. apis also object
+  { "name" : "gagVakeram",
+    "age" : 12,
+    "isLogin" : true 
+
+  }
+
+// 2.  and apis also array
+
+[
+    {},
+    {},
+    {}
+]
+      
