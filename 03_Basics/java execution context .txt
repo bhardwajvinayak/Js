@@ -1,0 +1,31 @@
+//--------------------------  JavaScript  Execution context  --------------------------------
+
+// it means  the file in java script  how to run or exceute
+
+
+ { code file} ----> Global Execution context  ---refer-->>  this variable 
+
+     // *** Important 
+    // value of this (if you'r in Browser)  ==== >   Window  oBject
+    // Globbal Execution context under the thread
+
+
+// types of  Execution context
+
+↪️ global  exceution context
+↪️ function exceution context
+↪️ eavl execution context ( in mongoes) (it's a property of global object)
+
+
+// how to run JavaScript code file
+
+
+{code file} |
+            |-> Memory creation phase 
+            |-> Exceution Phase
+ 
+                                                                  
+
+
+
+       
