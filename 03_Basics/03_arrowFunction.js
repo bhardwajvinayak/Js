@@ -44,7 +44,7 @@ ekDantam, welcome to web
 //   console.log(this.userName); // undefine
 // }
 // chai();
-// // we see this keyword not work in function
+// we see this keyword not work in function
 
 // const chai = function(){
 //   let userName = "Vinayakam"
